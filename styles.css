@@ -24,7 +24,7 @@ header {
     text-align: center;
     border-bottom: 4px solid #ffcc00;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    position: sticky;
+    position: relative;
     top: 0;
     z-index: 1000;
 }
